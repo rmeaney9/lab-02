@@ -24,7 +24,7 @@ Team member 1 should pull to download updates and begins here.
 
 
 ### Exercise 1
-5
+55
 
 
 Team member 1 should knit, stage & commit, and push all changes to GitHub.
@@ -66,7 +66,9 @@ Team member 3 should pull to download updates and begins here.
 *Remove this text and add your answer here.*
 
 ```{r lineplot-1}
-# remove this comment and add your code here
+staff_long %>%
+  ggplot(aes(x = year, y = value, color = faculty_type)) +
+  geom_line()
 ```
 
 
