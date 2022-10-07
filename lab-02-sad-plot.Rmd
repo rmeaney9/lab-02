@@ -1,6 +1,6 @@
 ---
 title: "Lab 02 - Take a sad plot and make it better"
-author: "Group Members: Ronan, Bobby, Nicholas and user4"
+author: "Group Members: Ronan, Bobby and Nicholas"
 date: "`r Sys.Date()`"
 output: html_document
 ---
@@ -24,8 +24,7 @@ Team member 1 should pull to download updates and begins here.
 
 
 ### Exercise 1
-
-*Remove this text and add your answer here. No code needed for this exercise!*
+5
 
 
 Team member 1 should knit, stage & commit, and push all changes to GitHub.
